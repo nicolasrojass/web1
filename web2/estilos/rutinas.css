@@ -1,0 +1,42 @@
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+        .rutina {
+            background: #f4f4f4;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+        }
+        .btn-agregar {
+            display: inline-block;
+            padding: 10px 15px;
+            background: #28a745;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .btn-agregar:hover {
+            background: #218838;
+        }
+        .volver
+        {
+            display: inline-block;
+            padding: 10px;
+            background: #007bff;
+            color: white;
+            border-radius: 5px;
+            text-decoration: none;
+            margin-top: 10px;
+        }
+
+        .volver:hover 
+        {
+            background:rgb(12, 74, 141);
+        }
